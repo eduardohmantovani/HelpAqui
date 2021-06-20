@@ -16,7 +16,7 @@
 
 .Menu-principal{
 height: 150px;
-background-color:#c1a246;
+background-color:#46c161;
 
 }
 
@@ -30,12 +30,12 @@ background-color:#c1a246;
     float: right;
 }
 nav .dropdown-menu{
-    background-color: #ffc107;
+    background-color: #dfece5;
     border-radius: 15px;
     font-family: 'OpenSans';
 }
 .navbar {
-    background-color: #ffc107;
+    background-color: #d2eff7;
     margin: 0px 28px 0px 125px ;
     border-radius:8px;
     
@@ -102,7 +102,7 @@ hr{
 	text-align: center;
 }
 #estatisticas p {
-	color: #FDE092;
+	color: #f31414;
 	text-transform: uppercase;
 	font-family: 'OpenSans-Light';
 	font-size: 64px;
@@ -118,7 +118,7 @@ hr{
 	margin-top: 105px;
 }
 #texto h2 {
-	color:#f59d04;
+	color:#18f504;
 	font-family: 'OpenSans-Light';
 	font-size: 48px;
 	text-align: center;
@@ -127,7 +127,7 @@ hr{
 #texto p {
 	margin-top: 60px;
 	margin-bottom: 40px;
-	color: #656565;
+	color: #0e0505;
 }
 #texto .btn {
 	min-width: 164px;
@@ -152,7 +152,7 @@ hr{
 footer{
 	margin-top: 100px;
 	width: 100%;
-	background-color:#c1a246;
+	background-color:#46c161;
     ;
 	text-align-last: center;
 }
