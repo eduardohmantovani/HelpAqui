@@ -95,7 +95,24 @@ hr{
     color: #f59d04;
     border: solid;
 }
-
+#estatisticas {
+	background-color: #4a473d;
+	width: 100%;
+	height: 200px;
+	text-align: center;
+}
+#estatisticas p {
+	color: #FDE092;
+	text-transform: uppercase;
+	font-family: 'OpenSans-Light';
+	font-size: 64px;
+	margin-top: 36px;
+}
+#estatisticas p small {
+	color: #fff;
+	font-size: 24px;
+	display: block;
+}
 
 
 
