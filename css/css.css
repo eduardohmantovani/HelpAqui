@@ -52,7 +52,7 @@ nav .nav-link{
     margin-right: 30px;
 
 }
-.row{
+#icones{
     width: 100%;
 }
 .input-group{
@@ -113,7 +113,34 @@ hr{
 	font-size: 24px;
 	display: block;
 }
+#texto {
+	text-align: center;
+	margin-top: 105px;
+}
+#texto h2 {
+	color:#f59d04;
+	font-family: 'OpenSans-Light';
+	font-size: 48px;
+	text-align: center;
+}
 
+#texto p {
+	margin-top: 60px;
+	margin-bottom: 40px;
+	color: #656565;
+}
+#texto .btn {
+	min-width: 164px;
+    height: 44px;
+    line-height: 34px;
+    border-radius: 0;
+}
+
+#texto .btn-amarelo {
+    color: #000;
+    background-color: #FDE192;
+    border-color: #FDE192;
+}
 
 
 
