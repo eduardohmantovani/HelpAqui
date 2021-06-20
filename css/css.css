@@ -18,8 +18,8 @@
 height: 150px;
 background-color:#c1a246;
 
-
 }
+
 .btn-danger{
     width: 130px;
     background-color: #e84545;
@@ -29,11 +29,16 @@ background-color:#c1a246;
     margin-top: 20px;
     float: right;
 }
+nav .dropdown-menu{
+    background-color: #ffc107;
+    border-radius: 15px;
+    font-family: 'OpenSans';
+}
 .navbar {
     background-color: #ffc107;
     margin: 0px 28px 0px 125px ;
     border-radius:8px;
-    top:105px;
+    
 }
 .nav-link{
     font-family: 'OpenSans';
@@ -47,6 +52,58 @@ nav .nav-link{
     margin-right: 30px;
 
 }
+.row{
+    width: 100%;
+}
+.input-group{
+	width: 75%;
+	margin: auto;
+	
+}
+#Pesquisa{
+	position: relative;
+    padding: 107px 50px 128px 50px;
+    text-align-last: center;
+}
+
+#icones img{
+	margin-top: 75px;
+	width: 150px;
+}
+#icones h3{
+	font-family: 'Raleway-Bold';
+	font-size:14px;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 35px;
+}
+#icones p{
+	font-family: 'Raleway-Bold';
+	font-size: 14px;
+	text-align: center;
+	color: #797e84;
+}
+#icones{
+	text-align: center;
+	margin-top: 50px;
+	width: 890px;
+}
+hr{
+	margin: auto;
+    width: 500px;
+    color: #f59d04;
+    border: solid;
+}
+
+
+
+
+
+
+
+
+
 
 footer{
 	margin-top: 100px;
