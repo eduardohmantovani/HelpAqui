@@ -1,0 +1,74 @@
+@font-face {
+	font-family: 'OpenSans';
+	src: url("../fonts/Open_Sans/OpenSans-Bold.ttf");
+	font-size: 1em;
+}
+@font-face {
+	font-family: 'Raleway';
+	src: url("../fonts/Raleway/Raleway.ttf");
+	font-size: 1em;
+}
+@font-face{
+	font-family: 'Cardo';
+	src:url("../fonts/Cardo/Cardo-Italic.ttf");
+	font-size: 1em;
+}
+
+.Menu-principal{
+height: 150px;
+background-color:#46c161;
+
+}
+
+.btn-danger{
+    width: 130px;
+    background-color: #e84545;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Raleway-Bold';
+    margin-top: 20px;
+    float: right;
+}
+nav .dropdown-menu{
+    background-color: #dfece5;
+    border-radius: 15px;
+    font-family: 'OpenSans';
+}
+.navbar {
+    background-color: #d2eff7;
+    margin: 0px 28px 0px 125px ;
+    border-radius:8px;
+    
+}
+.nav-link{
+    font-family: 'OpenSans';
+}
+.navbar-light .navbar-brand{
+    color:rgb(228 59 59);
+    margin-right: 70px;
+    font-family: monospace;
+}
+nav .nav-link{
+    margin-right: 30px;
+
+}
+#Pesquisa{
+	position: relative;
+    padding: 107px 50px 128px 50px;
+    text-align-last: center;
+}
+hr{
+	margin: auto;
+    width: 500px;
+    color: #f59d04;
+    border: solid;
+}
+#ranking{
+    text-align: -webkit-center;
+
+}
+.h1 {
+	margin-top: 60px;
+	margin-bottom: 40px;
+	color: #0e0505;
+}
